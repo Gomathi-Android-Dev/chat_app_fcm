@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245611245299",
+    "project_id": "chatapp-17325",
+    "storage_bucket": "chatapp-17325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245611245299:android:5600d36c531d8c4f82d186",
+        "android_client_info": {
+          "package_name": "com.anniyam.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUPH6Tw0bcne3FTx0_nkvW9I0r7UIzho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
